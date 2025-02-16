@@ -1,0 +1,150 @@
+//
+// Driver info file for Phomemo M04AS
+//
+// Copyright © 2025 Slava Barinov <rayslava@gmail.com>
+// Copyright © 2020 Laurent Vivier <laurent@vivier.eu>
+//
+
+#include <font.defs>
+#include <media.defs>
+#include <label.h>
+
+#media "w50h10/Label  50mmx25mm"  50mm 10mm
+#media "w50h20/Label  50mmx20mm"  50mm 20mm
+#media "w50h25/Label  50mmx25mm"  50mm 25mm
+#media "w50h30/Label  50mmx30mm"  50mm 30mm
+#media "w50h40/Label  50mmx40mm"  50mm 40mm
+#media "w50h50/Label  50mmx50mm"  50mm 50mm
+#media "w50h60/Label  50mmx60mm"  50mm 60mm
+#media "w50h70/Label  50mmx70mm"  50mm 70mm
+#media "w50h75/Label  50mmx75mm"  50mm 75mm
+#media "w50h80/Label  50mmx80mm"  50mm 80mm
+#media "w50h90/Label  50mmx90mm"  50mm 90mm
+#media "w50h100/Label 50mmx100mm" 50mm 100mm
+#media "w50h110/Label 50mmx110mm" 50mm 110mm
+#media "w50h120/Label 50mmx120mm" 50mm 120mm
+#media "w50h125/Label 50mmx125mm" 50mm 125mm
+#media "w50h130/Label 50mmx130mm" 50mm 130mm
+#media "w50h140/Label 50mmx140mm" 50mm 140mm
+#media "w50h150/Label 50mmx150mm" 50mm 150mm
+
+#media "w80h10/Label  80mmx25mm"  80mm 10mm
+#media "w80h20/Label  80mmx20mm"  80mm 20mm
+#media "w80h25/Label  80mmx25mm"  80mm 25mm
+#media "w80h30/Label  80mmx30mm"  80mm 30mm
+#media "w80h40/Label  80mmx40mm"  80mm 40mm
+#media "w80h50/Label  80mmx50mm"  80mm 50mm
+#media "w80h60/Label  80mmx60mm"  80mm 60mm
+#media "w80h70/Label  80mmx70mm"  80mm 70mm
+#media "w80h75/Label  80mmx75mm"  80mm 75mm
+#media "w80h80/Label  80mmx80mm"  80mm 80mm
+#media "w80h90/Label  80mmx90mm"  80mm 90mm
+#media "w80h100/Label 80mmx100mm" 80mm 100mm
+#media "w80h110/Label 80mmx110mm" 80mm 110mm
+#media "w80h120/Label 80mmx120mm" 80mm 120mm
+#media "w80h125/Label 80mmx125mm" 80mm 125mm
+#media "w80h130/Label 80mmx130mm" 80mm 130mm
+#media "w80h140/Label 80mmx140mm" 80mm 140mm
+#media "w80h150/Label 80mmx150mm" 80mm 150mm
+
+#media "w110h10/Label  110mmx25mm"  110mm 10mm
+#media "w110h20/Label  110mmx20mm"  110mm 20mm
+#media "w110h25/Label  110mmx25mm"  110mm 25mm
+#media "w110h30/Label  110mmx30mm"  110mm 30mm
+#media "w110h40/Label  110mmx40mm"  110mm 40mm
+#media "w110h50/Label  110mmx50mm"  110mm 50mm
+#media "w110h60/Label  110mmx60mm"  110mm 60mm
+#media "w110h70/Label  110mmx70mm"  110mm 70mm
+#media "w110h75/Label  110mmx75mm"  110mm 75mm
+#media "w110h80/Label  110mmx80mm"  110mm 80mm
+#media "w110h90/Label  110mmx90mm"  110mm 90mm
+#media "w110h100/Label 110mmx100mm" 110mm 100mm
+#media "w110h110/Label 110mmx110mm" 110mm 110mm
+#media "w110h120/Label 110mmx120mm" 110mm 120mm
+#media "w110h125/Label 110mmx125mm" 110mm 125mm
+#media "w110h130/Label 110mmx130mm" 110mm 130mm
+#media "w110h140/Label 110mmx140mm" 110mm 140mm
+#media "w110h150/Label 110mmx150mm" 110mm 150mm
+
+Manufacturer "Phomemo"
+Version 2.0
+DriverType label
+ColorDevice No
+Attribute "cupsSNMPSupplies" "" "false"
+HWMargins 1mm 0 1mm 0
+
+Filter "application/vnd.cups-raster 100 rastertopm02_t02"
+*Resolution - 8 0 0 0 300dpi
+ColorModel Gray/Grayscale w chunky 0
+
+MediaSize "w50h10"
+MediaSize "w50h20"
+MediaSize "w50h25"
+MediaSize "w50h30"
+MediaSize "w50h40"
+MediaSize "w50h50"
+MediaSize "w50h60"
+MediaSize "w50h70"
+MediaSize "w50h75"
+MediaSize "w50h80"
+MediaSize "w50h90"
+MediaSize "w50h100"
+MediaSize "w50h110"
+MediaSize "w50h120"
+MediaSize "w50h125"
+MediaSize "w50h130"
+MediaSize "w50h140"
+MediaSize "w50h150"
+
+MediaSize "w80h10"
+MediaSize "w80h20"
+MediaSize "w80h25"
+MediaSize "w80h30"
+MediaSize "w80h40"
+MediaSize "w80h50"
+MediaSize "w80h60"
+MediaSize "w80h70"
+MediaSize "w80h75"
+MediaSize "w80h80"
+MediaSize "w80h90"
+MediaSize "w80h100"
+MediaSize "w80h110"
+MediaSize "w80h120"
+MediaSize "w80h125"
+MediaSize "w80h130"
+MediaSize "w80h140"
+MediaSize "w80h150"
+
+MediaSize "w110h10"
+MediaSize "w110h20"
+MediaSize "w110h25"
+MediaSize "w110h30"
+MediaSize "w110h40"
+MediaSize "w110h50"
+*MediaSize "w110h60"
+MediaSize "w110h70"
+MediaSize "w110h75"
+MediaSize "w110h80"
+MediaSize "w110h90"
+MediaSize "w110h100"
+MediaSize "w110h110"
+MediaSize "w110h120"
+MediaSize "w110h125"
+MediaSize "w110h130"
+MediaSize "w110h140"
+MediaSize "w110h150"
+
+VariablePaperSize Yes
+MinSize 0.00 0.00
+MaxSize 0.00 0.00
+
+Option "FeedLines/Feed Lines for Tearing" PickOne DocumentSetup 20.0
+Attribute CustomFeedLines True "<</AdvanceDistance 3 -1 roll>>setpagedevice"
+Attribute ParamCustomFeedLines Lines "1 int 0 20"
+{
+  Attribute "NickName" "" "Phomemo M04AS"
+  ModelName "M04AS"
+  PCFileName "Phomemo-M04AS.ppd"
+  Option "FeedLines" PickOne DocumentSetup 20.0
+  *Choice "Default/Default (2)" "<</AdvanceDistance 2>>setpagedevice"
+}

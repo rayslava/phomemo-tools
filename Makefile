@@ -14,6 +14,7 @@ FILES += cups/filter/rastertopm02_t02.py
 FILES += cups/filter/rastertopm110.py
 FILES += cups/backend/phomemo.py
 FILES += cups/drv/phomemo-m02_t02.drv
+FILES += cups/drv/phomemo-m04as.drv
 FILES += cups/drv/phomemo-m110.drv
 FILES += glabels/generate.sh
 FILES += glabels/Makefile
